@@ -2,6 +2,7 @@ body{
      padding    : 0;
      margin     : 0;
      font-family: Helvetica;
+    background-image: url('image/blurred-shelves-with-food.jpg')
 }
 #header{
       position: fixed;
@@ -84,7 +85,7 @@ body{
       padding : 0;
       margin-bottom :0;
       width : 90%;
-      color : #572800;
+      color : #ffffff;
     text-align: center;
     font-family: cursive;
     
@@ -94,7 +95,7 @@ body{
       padding : 0;
       margin-bottom :0;
       width : 90%;
-      color : #572800;
+      color : #ffffff;
     text-align: center;
     font-family: cursive;
 }
